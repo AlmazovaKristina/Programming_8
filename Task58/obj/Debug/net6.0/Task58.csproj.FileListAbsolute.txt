@@ -1,0 +1,15 @@
+/Users/kristinaalmazova/Documents/Programming7/Task58/bin/Debug/net6.0/Task58
+/Users/kristinaalmazova/Documents/Programming7/Task58/bin/Debug/net6.0/Task58.deps.json
+/Users/kristinaalmazova/Documents/Programming7/Task58/bin/Debug/net6.0/Task58.runtimeconfig.json
+/Users/kristinaalmazova/Documents/Programming7/Task58/bin/Debug/net6.0/Task58.dll
+/Users/kristinaalmazova/Documents/Programming7/Task58/bin/Debug/net6.0/Task58.pdb
+/Users/kristinaalmazova/Documents/Programming7/Task58/obj/Debug/net6.0/Task58.csproj.AssemblyReference.cache
+/Users/kristinaalmazova/Documents/Programming7/Task58/obj/Debug/net6.0/Task58.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinaalmazova/Documents/Programming7/Task58/obj/Debug/net6.0/Task58.AssemblyInfoInputs.cache
+/Users/kristinaalmazova/Documents/Programming7/Task58/obj/Debug/net6.0/Task58.AssemblyInfo.cs
+/Users/kristinaalmazova/Documents/Programming7/Task58/obj/Debug/net6.0/Task58.csproj.CoreCompileInputs.cache
+/Users/kristinaalmazova/Documents/Programming7/Task58/obj/Debug/net6.0/Task58.dll
+/Users/kristinaalmazova/Documents/Programming7/Task58/obj/Debug/net6.0/refint/Task58.dll
+/Users/kristinaalmazova/Documents/Programming7/Task58/obj/Debug/net6.0/Task58.pdb
+/Users/kristinaalmazova/Documents/Programming7/Task58/obj/Debug/net6.0/Task58.genruntimeconfig.cache
+/Users/kristinaalmazova/Documents/Programming7/Task58/obj/Debug/net6.0/ref/Task58.dll
