@@ -29,7 +29,6 @@ for (int i = 0; i < matrix.GetLength(0); i++)
 
 int[,] Multiply(int[,] matrixP, int[,] matrixK)
 {
-    // kjasdgfjkdshgf
     int[,] result = new int[matrixP.GetLength(0), matrixK.GetLength(1)];
     for (int i = 0; i < result.GetLength(0); i++)
     {
@@ -57,8 +56,7 @@ Console.WriteLine();
 int [,] array2DC = Multiply(array2DP, array2DK);
 PrintMatrix(array2DC);
 Console.WriteLine();
-// int number = FindMinNumberLine (array2D);
-// Console.WriteLine($"Строка {number + 1}");
+
 
 
 
